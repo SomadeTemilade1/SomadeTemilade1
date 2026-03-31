@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @SomadeTemilade1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning data analytics and science 
+- 👋 Hi, I’m @Somade Temilade
+- 👀 I’m interested in big data
+- 🌱 I’m currently learning data analytics, trying to know much on data engineering and Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : somadetemilade16@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he
 - ⚡ Fun fact: i love data and information
 
 <!---
